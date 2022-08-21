@@ -54,6 +54,3 @@ We simply combine GAN loss and L1 Loss to have the final Loss for the entire alg
 * Map Representation (output): <br>
 <img src="Visualization/7.png"> <br>
 <br><br>
-
-# Other applications
-* Pix2Pix GAN framework is a common framework for any image translation task. The algorithm I implemented above was trained specifically to translate Satellite Imagery to Map image. If you have access to other image translation dataset, you only need to retrain the model to have another Generator which translate other types of image. Some examples are Photos to Drawings, Drawings to Photos, B&W images to Colored Images, Photos to Cartoon, Photos to Anime, etc.
